@@ -10,6 +10,11 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene("World Map 1");
     }
 
+    public void ShopScene()
+    {
+        SceneManager.LoadScene("Shop");
+    }
+
     public void QuitGame()
     {
         Application.Quit();

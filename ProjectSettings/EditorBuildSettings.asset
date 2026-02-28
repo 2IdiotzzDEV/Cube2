@@ -50,4 +50,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/World Map 4.unity
     guid: 5fa264191d924ef4f85df88b86d32bb5
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: fb5d56ba9a3e4ba48b9f5efe8449093a
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
